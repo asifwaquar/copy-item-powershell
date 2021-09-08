@@ -1,0 +1,7 @@
+#Groups
+SG_SOURCE=C:\logs\source\SG
+SG_DESTINATION=C:\logs\destination\SG
+
+#Hostnames
+HK_SOURCE=C:\logs\source\HK
+HK_DESTINATION=C:\logs\destination\HK
